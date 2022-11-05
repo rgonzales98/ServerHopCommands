@@ -1,0 +1,9 @@
+"AddonInfo"
+{
+	"name"				"Server Hop Commands" 
+	"version"			"1.0"
+	"author_name"		"rgonzales98"
+	"info"				"Advertise your other servers"
+}
+
+
